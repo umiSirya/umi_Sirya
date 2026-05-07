@@ -47,7 +47,7 @@ End-to-end analysis of call centre operational data across 10 agents.
 ---
 
 ## A Little More About Me
-- I believe data tells a story — my job is to find it
+- I believe data tells a story: my job is to find it
 - Currently pursuing a Masters in Big Data Technologies
 - I am always learning, always building
 - Based in Nairobi but my dashboards travel everywhere
