@@ -41,11 +41,6 @@ End-to-end analysis of call centre operational data across 10 agents.
 
 ---
 
-## GitHub Stats
-![Naomi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umiSirya&show_icons=true&theme=blue-green)
-
----
-
 ## Get In Touch
 - GitHub: [umiSirya](https://github.com/umiSirya)
 - LinkedIn: [Naomi Sirya](https://www.linkedin.com/in/naomi-s-a6750613a/)
