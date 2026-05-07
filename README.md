@@ -3,7 +3,7 @@
 ## About Me
 I am a Data Science Bootcamp graduate based in Nairobi, Kenya, with a passion
 for turning raw data into meaningful insights. I am currently building my
-data analytics portfolio, working across the full data pipeline — from cleaning
+data analytics portfolio, working across the full data pipeline from cleaning
 and analysis to visualization and storytelling. I am open to opportunities in
 data analysis where I can apply my skills and continue to grow.
 
@@ -54,4 +54,4 @@ End-to-end analysis of call centre operational data across 10 agents.
 - Currently on a mission: one project at a time until I land my first data role
 
 ---
-> "Data is the new oil — and I am here to refine it"
+> "Data is the new oil and I am here to refine it"
