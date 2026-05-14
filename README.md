@@ -26,7 +26,7 @@ End-to-end analysis of KRA revenue drivers and tax head performance data.
 - Engineered new features including revenue share %, projected revenue and absolute revenue change
 - Built 5 data visualisations uncovering insights on tax head growth and revenue distribution
 - Designed an interactive Power BI dashboard with 4 KPI cards, bar charts and a donut chart for executive reporting
-- [View Project](https://github.com/umiSirya/kenya-revenue-analysis)
+- [View Project](https://github.com/umiSirya/KRA_revenue_optimization)
 
 ---
 
