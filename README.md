@@ -1,5 +1,4 @@
 # Hi, I'm Naomi Sirya
-
 ## About Me
 I am a Data Science Bootcamp graduate based in Nairobi, Kenya, with a passion
 for turning raw data into meaningful insights. I am currently building my
@@ -7,9 +6,7 @@ data analytics portfolio, working across the full data pipeline from cleaning
 and analysis to visualization and storytelling. I am open to opportunities in
 data analysis where I can apply my skills and continue to grow.
 
-
 ## Tools & Skills
-
 | Category | Tools |
 |----------|-------|
 | **Languages** | Python, SQL |
@@ -23,7 +20,17 @@ data analysis where I can apply my skills and continue to grow.
 
 ## Projects
 
-### 1. Kenya Public Debt Analysis
+### 1. Kenya Revenue Authority (KRA) Revenue Performance Analysis
+End-to-end analysis of KRA revenue drivers and tax head performance data.
+- Cleaned and explored two government revenue datasets using Python (Pandas, Matplotlib) in Google Colab
+- Engineered new features including revenue share %, projected revenue and absolute revenue change
+- Built 5 data visualisations uncovering insights on tax head growth and revenue distribution
+- Designed an interactive Power BI dashboard with 4 KPI cards, bar charts and a donut chart for executive reporting
+- [View Project](https://github.com/umiSirya/kenya-revenue-analysis)
+
+---
+
+### 2. Kenya Public Debt Analysis
 End-to-end analysis of 22 years of Kenya public debt data (1999–2021).
 - Built a Polynomial Regression model achieving R² of 0.9069
 - Performed SQL analysis uncovering domestic vs external debt insights
@@ -32,7 +39,7 @@ End-to-end analysis of 22 years of Kenya public debt data (1999–2021).
 
 ---
 
-### 2. Call Centre Performance Dashboard
+### 3. Call Centre Performance Dashboard
 End-to-end analysis of call centre operational data across 10 agents.
 - Cleaned and analyzed 270 records using Python
 - Wrote 10 SQL queries to uncover agent performance insights
@@ -44,6 +51,7 @@ End-to-end analysis of call centre operational data across 10 agents.
 ## Get In Touch
 - GitHub: [umiSirya](https://github.com/umiSirya)
 - LinkedIn: [Naomi Sirya](https://www.linkedin.com/in/naomi-s-a6750613a/)
+
 ---
 
 ## A Little More About Me
@@ -54,4 +62,5 @@ End-to-end analysis of call centre operational data across 10 agents.
 - Currently on a mission: one project at a time until I land my first data role
 
 ---
+
 > "Data is the new oil and I am here to refine it"
