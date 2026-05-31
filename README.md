@@ -1,10 +1,8 @@
 # Hi, I'm Naomi Sirya
 ## About Me
-I am a Data Science Bootcamp graduate based in Nairobi, Kenya, with a passion
-for turning raw data into meaningful insights. I am currently building my
-data analytics portfolio, working across the full data pipeline from cleaning
-and analysis to visualization and storytelling. I am open to opportunities in
-data analysis where I can apply my skills and continue to grow.
+I am a Data Analyst based in Nairobi, Kenya passionate about turning raw data into meaningful insights. I work across the full data pipeline — cleaning, analysis, visualization, and storytelling. Open to data analysis opportunities. 📊
+
+---
 
 ## Tools & Skills
 | Category | Tools |
